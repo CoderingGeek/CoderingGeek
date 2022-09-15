@@ -1,10 +1,31 @@
-### Hi there 👋, Tanuj Bansal
+### Hola 👋, Tanuj Bansal
 #### Developer
 ![Developer](https://cdn-cbbpm.nitrocdn.com/KKxkYiOVcbjgogKmtsGYNQgJZSlwkhTe/assets/static/optimized/rev-495cf16/wp-content/uploads/2020/03/web-design-development.jpg)
 
 I'm Tanuj from India, and I do full stack software development. I really enjoy learning languages and frameworks like React. I also enjoy learning  about cloud-computing services like salesforce etc.
 
 Skills: Core Java / SQL / JS / HTML / CSS /Angular/ Docker /Salesforce 
+
+- 🔭 I’m currently working on ASP.Net and C#
+
+- 🌱 I’m currently learning **Salesforce and Machine Learning**
+
+- 👯 I’m looking to collaborate on **Open source Projects**
+
+- 🤝 I’m looking for help with **Artifical Intelligence (AI)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/CodingEternals]
+
+- 📝 Other certification [Full Stack Software Engineering in Java and Angular Technology] (https://drive.google.com/file/d/11t4CpXJMkcopNo24GXwc4MHX90DzP9Jr/view?usp=sharing)
+
+- 💬 Ask me about **Java and Web Development**
+
+- 📫 How to reach me **tanujbansal51@gmail.com**
+
+- ⚡ [Trailblazer Profile]- https://trailblazer.me/id/tbansal17
+
+- 📄 Other Area of Intrest **Python and React**
+
 
 
 
