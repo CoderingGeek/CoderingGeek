@@ -1,7 +1,9 @@
-![MasterHead](https://media.licdn.com/dms/image/D5612AQHPLUlLfJVSFA/article-cover_image-shrink_600_2000/0/1678537543869?e=2147483647&v=beta&t=S7wHj19_dLSegVomF7nFh0VdPsDKNBAPrmDlTgy_C2Q)
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+![MasterHead](https://media.giphy.com/headers/salesforce/ZcLcnBDRoGYW.gif)
+
 <h1 align="center">Hello 👋, I'm Tanuj_Bansal</h1>
 <h3 align="center">Salesforce Developer || Full Stack Software Developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingeternals&label=Profile%20views&color=0e75b6&style=flat" alt="codingeternals" /> </p>
 
